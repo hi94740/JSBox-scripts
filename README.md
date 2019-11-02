@@ -9,4 +9,4 @@ A repo for some JSBox scripts
 
 把代码复制到 JSBox 的编辑器插件里使用
 
-可修改 number_of_spaces 常量来修改空格数
+修改开头的 number_of_spaces 常量就可以修改空格数量，默认为2
